@@ -1,3 +1,5 @@
+A python project
+
 Setup:
 
 - Unzip the compressed folder
